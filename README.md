@@ -42,8 +42,3 @@ El informe detallado del proyecto se encuentra en la carpeta [`/docs/`](./docs/f
 ## Contribuciones
 La colaboración activa con la comunidad sorda de Guatemala ha sido vital para el desarrollo de **Señas Chapinas**, asegurando que sea una herramienta útil y culturalmente relevante. Si deseas contribuir o tienes comentarios, no dudes en abrir un *issue* o enviar un *pull request*.
 
----
-
-## Licencia
-Este proyecto está licenciado bajo los términos de la [MIT License](./LICENSE).
-
